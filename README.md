@@ -1,5 +1,4 @@
 Updated tool can be found here
-https://github.com/SimplySkidz/Skidz-Chiv-Admin-Tool/releases/tag/Update
 
 
 
